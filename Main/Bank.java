@@ -56,15 +56,15 @@ public class Bank {
                 case 4:
                     System.out.println(" ");
                     System.out.println("Saindo. . . ");
-                    System.out.println("Encerrando programa. . .");
                     break;
                 default:
                     System.out.println(" ");
                     System.out.println("Somente opcoes de 1 a 4 sao validas nesse sistema!");
                     break;
 
-            }
 
+
+            }
 
 
         }
