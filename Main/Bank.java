@@ -68,6 +68,7 @@ public class Bank {
 
 
         }
+            System.out.println("Encerrando sistema. . .");
         leitor.close();
 
     }
